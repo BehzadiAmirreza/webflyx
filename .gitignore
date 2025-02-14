@@ -1,5 +1,5 @@
 # Ignore the entire secure directory
-/home/linux/webflyx/secure
+secure/
 
 # Ignore the guilty_pleasures.md file
-/home/linux/webflyx/guilty_pleasures.md
+guilty_pleasures.md
